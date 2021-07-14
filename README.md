@@ -1,6 +1,6 @@
 Hello there!
 
-My name is Ricardo Batista and I recently finished the Postgraduate in Software Development @ Instituto Superior de Engenharia do Porto, in July 2021.
+My name is Ricardo Batista and I recently finished the 2020/2021 edition of .SWitCH() - Postgraduate in Software Development @ Instituto Superior de Engenharia do Porto.
 
 Throughout the course we learned mainly Java with a big focus on Domain Driven Design and Onion Architecture. 
 
